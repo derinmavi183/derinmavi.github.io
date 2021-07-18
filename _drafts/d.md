@@ -1,0 +1,1 @@
+Şöyle bir mantık sen borsada hissesi daha pahalı olan bir şirketi mi daha iyidir diyorsun . Bir urunun kendisi var. Ama hizmeti de paraya sabit tutsan mesela bir üründeki hizmet kalitesi düştükçe fiyatı düşse.
