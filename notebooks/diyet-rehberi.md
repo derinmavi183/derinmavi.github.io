@@ -11,9 +11,33 @@ Aşırı kilo aslında tıpkı sigara içmek gibi alt kültürün bir sembolü h
 
 Kilonun güzellikle ilişkisi kurgusal olabilir. Fakat sağlıkla ilişkisi değil.
 Aslında hepimizin ideal bir kilosu var. Bu ideal kiloya ulaşmak kimimiz için kilo almak kimi için de kilo vermek anlamına geliyor.
-Öte yandan bu psikolojik olarak biraz zor ve biraz da tehlikeli konu. Çünkü aslında tüketmesi gerekenden fazla tüketim yapan biri aslında hayattan tatminini buraya koymuş oluyor.
-Bu aslında o kişinin hayat tatminini etkileyen bir konu. Bu nedenle irade gerektiriyor.
+Öte yandan bu psikolojik olarak biraz zor ve biraz da tehlikeli konu. Çünkü aslında tüketmesi gerekenden fazla tüketim yapan biri aslında hayattan tatminini buraya koymuş oluyor. Bu aslında o kişinin hayat tatminini etkileyen bir konu. Bu nedenle irade gerektiriyor.
 
+Benim gibi bir hedef belirleyenler için bir sonraki aşama bir beslenme stratejisi oluşturmak. Benim özelimde kilo kaybetmek öncelikli olduğundan fitnesswiki yardımıyla ona göre  bir diyet stratejisi oluşturdum.
 
+## Beslenme Stratejisi
 
+İşe yarayabilecek pek çok diet stratejisi var, sizin için en kolay olanı seçebilirsiniz. Hepsi aslında genel olarak iyi yemek, kalori, protein üzerine. Aşağıda benim oluşturduğum bazı kurallar var.
 
+* Kalori tüketimini takip et.
+* Paket gıdalarınki çok rahat ölçülebiliyor.
+* Diyetini zamanla yeniden gözden geçir.
+* Aç olmayı normal bir şey olarak karşıla.
+* Vitamin ve mineral alımına dikkat et.
+* Maksimum 1500 kalori tüket. Minimum 1000 kalori.
+* Arkadaşların yanındayken fazladan dikkatli ol.
+
+Toplam Günlük Enerji Harcamanızı (TDEE) kalori cinsinden tahmin edin. Kişiden kişiye değişebiliyor. Kilo vermek için %10-20 daha az kalori, kilo almak için %10-20 daha fazla kalori tüketin.
+
+* Minimum 120g protein, kas kazanımı için 160g veya 0.8g/lb protein.
+* Vücudunuzun genel beslenme ve hormonal ihtiyaçları için günde 0,3 g/lb yağ alın.
+
+Kalan kalori bütçenizi istediğiniz kadar protein, yağ ve karbonhidratla doldurun. Sorumlu bir biçimde tüketin.
+
+Bir yandan da bu süreci devamlı bir gelişim olarak görüyorum. Birinci öncelik kalori tüketimini kısıtlamak. Zamanla protein, yağ, karbonitrat oranlarına ve yiyeceklerin işlenmişliğini azaltma vs. gibi konulara öncelik vereceğim.
+
+## Yemek Listesi
+* 07.08.2021 | Mr. No Ton Balıklı Çavdar Ekmekli Sanviç - 407 kcal
+* 07.08.2021 | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal
+* 07.08.2021 | Züber Lokma Fındık Kaptlı - 45 kcal
+* 07.08.2021 | Toplam : 577 kcal 
