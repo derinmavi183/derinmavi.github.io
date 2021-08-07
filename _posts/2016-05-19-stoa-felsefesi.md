@@ -12,6 +12,8 @@ Kişi bu yolda anın içerisindeki yaşam tecrübesini kendisini ona nasıl sunu
 Zihninin becerilerini kullanarak *zevk isteği* veya *acıdan kaçma* dürtüleri tarafından *kontrol* edilmiyor bu sayede *doğa'nın düzenine* uygun hareket ediyor.
 Bu sayede kendine ve başkalarına adil davranıyor.
 
-Stoacı filozoflar için erdem çok önemli. İnsandaki iyiliği erdem olarak tanımlıyorlar. Aynı zamanda erdem tek iyilik. Dışarıdan veya içeriden ne olursa olsun daha az öneme sahip. Örneğin adiaphora olarak sınıflandıracakları sağlık, servet, zevk kendi içerisinde iyi veya kötü değil. Fakat erdemin üzerine uygulanacağı materyali oluşturmaları açısından değerliler.
+Stoacı filozoflarını erdem kavramını önemsediklerini söylemek mümkün. İnsandaki iyiliği erdem olarak tanımlıyorlar. Aynı zamanda erdem tek iyilik. Diğer bütün etkiler dışarıdan veya içeriden ne olursa olsun daha az öneme sahip. Örneğin adiaphora olarak sınıflandıracakları sağlık, servet, zevk kendi içerisinde iyi veya kötü değil. Erdemin üzerine uygulanacağı materyali oluşturmaları açısından değerliler. Ama önceliklerini erdem oluşturuyor.
 
 Bu antik düşünce bence modern hayatlarımız için çok değerli. Başka bir yaşamın mümkünlüğünü gösteriyor her şeyden öte. Eğenin kıyısında bir felsefe okulunda 
+
+Bu okullar günümüzün okullarından oldukça farklı. Daha çok bir tür kardeşlik gibi düşünebiliriz. Özellikle etik konusunda kutsanmışlıktan bahsetseler de tam anlamıyla dini topluluklar olduklarını söyleyemeyiz. 
