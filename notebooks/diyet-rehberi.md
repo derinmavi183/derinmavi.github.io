@@ -37,7 +37,7 @@ Kalan kalori bütçenizi istediğiniz kadar protein, yağ ve karbonhidratla dold
 Bir yandan da bu süreci devamlı bir gelişim olarak görüyorum. Birinci öncelik kalori tüketimini kısıtlamak. Zamanla protein, yağ, karbonitrat oranlarına ve yiyeceklerin işlenmişliğini azaltma vs. gibi konulara öncelik vereceğim.
 
 ## Yemek Listesi
-* 07.08.2021 | Mr. No Ton Balıklı Çavdar Ekmekli Sanviç - 407 kcal
-* 07.08.2021 | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal
-* 07.08.2021 | Züber Lokma Fındık Kaptlı - 45 kcal
-* 07.08.2021 | Toplam : 577 kcal 
+* 07.08.2021 | Mr. No Ton Balıklı Çavdar Ekmekli Sanviç - 407 kcal | 20.90 TL
+* 07.08.2021 | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal | 6.50 TL
+* 07.08.2021 | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
+* 07.08.2021 | Toplam : 577 kcal | 40.90 TL
