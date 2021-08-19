@@ -7,8 +7,6 @@
             {% else %}
             {% assign posts = site.posts %}
             {% endif %}
-  
-  
             {%- if posts.size > 0 -%}
             {%- if page.list_title -%}
               <h2>{{ page.list_title }}</h2>
@@ -18,8 +16,9 @@
               {%- for post in posts -%}
               <div class="row mb-5">
                 <div class="col-md-4">
-                  <a>  <img src="https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/master/images/image.png" alt="" class=""></a>
+                  <a>  <img src="" alt="" class=""></a>
                 </div>
+
               <div class="col-md-8">
                 <span class="post-meta2 text-muted">{{ post.date | date: date_format }}</span>
                 <h3>
@@ -31,10 +30,10 @@
                   {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
                 {%- endif -%}
               </div>
-              {%- endfor -%}
             </div>
+              {%- endfor -%}
+            
         </div>
-  
             {% if site.paginate %}
               <div class="pager">
                 <ul class="pagination">
@@ -52,15 +51,7 @@
                 </ul>
               </div>
             {%- endif %}
-  
             {%- endif -%}
-  
-      
-      
-      
-      
-               
-          
     </div>
     
   
