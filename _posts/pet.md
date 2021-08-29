@@ -9,5 +9,55 @@
 
 > Nietzche, insan ruhuyla ilgili olduğunda genellikle cinlerden bahseder. Orta seviye için aile, para, statü, cinsel cazibe. Arka plan her zaman daha önemlidir. Bir kişinin dürtüleri nelerdir? Biyolojik dürtüler. Uykuya dal, bulaşıkları temizle. Bir şey yaz. Biz neyiz? Bu şeylerin yaşadığı yer. Ruhların ikamet ettiği dönüp durduğu bu yer. Bazıları cindir. Cin nedir? Korkunç derecede güçlü bir şey, korkunç derecede küçük bir bölmede tutulan. Bazıları şeytandır. İblisler, kendi iradeleri olan ve genel olarak iyiyi amaçlamayan şeyler. Her biri eğer fırsat verilirse tüm dünyayı şekillendirmeye teşebbüs edecektir. Tek göz fikri Cyclops tek gözlüdür ve dev gibidir tek bir şey ister. Kavramsallaştırmasıdır. They are constantly in war. Phisophy tries to that cyclops do dominate all psycological structure and cultural structure and the world. Organizing something is that too. 
 
+Jordan Peterson’dan İnciler
+
+Son yıllarda Kanadalı klinik psikolog Jordan Peterson’una batıda büyük bir ilgi var. Peterson gerçekten üst düzeyde bir entelektüel. Ben de peterson’u dinleyenlerdenim. Youtube’daki ders serilerinin birçoğunu dinledim. 21. Rules For Life kitabını okudum. Yakın bir süre öncesine kadar Toronto üniversitesinde ders veriyordu. İnternetteki videoları da bu derslerden oluşmakta.
+
+Öte yandan benim de hak verdiğim birtakım eleştiriler de var tabi. Bilimsel olarak insan algısını incelediğini görüyoruz. Din ile ilgili opurtunist bir tarafı var tabi tıpkı self authoring programı direk fayda sağlayacağı bir ürün olarak ortaya koyması gibi. Birincisi dinle olan ilginç bağı. Aynı zamanda postmodernizm okuması biraz üstünkörü. Bu nedenle yalnızca faydalı bulduğum bazı notları paylaşmak istedim.
+
+
+Üniversiteler Üzerine
+
+Hedefler Hiyerarşisi
+
+Derste başarılı olabilmek için ödevi iyi yapabilmek için bilgileri dinlemeniz gerekir. Böylece derslerinizde başarılı olursunuz ve diplomanızı alırsınız. Dünyadaki yerinizi bulabilmeniz için diplomanızı almanız gerekir.
+Bu şekilde finansal olarak daha kararlı olursunuz ve bir aile kurarak bir yaşama sahip olabilirsiniz. Bunların hepsi de iyi bir insan olmanın parçalarıdır.
+ 
+Hedefler hiyerarşisi dediğimizde bahsettiğimiz aslında bu. Her ne kadar belli belirsiz düşünülmüş olsa da “iyi bir insan olmanın” hiyerarşinin tepesinde olduğunu söyleyebiliriz. Ve insan daha sonra bu nihai amaca hizmet eden şeyler yaptığında, bunları daha anlamlı bulur. Ve bu anlam aslında içimizdeki bir çeşit “keşif devresi”nin devreye girmesinin bir sonucu olarak üretilir. Hipotalamusunuzda yavalanan bu mekanizma, gerçekten çok eskidir. susuzluk kadar eski, açlık kadar eskidir. Gerçekten eski bir sistem. Doğal olarak bu sistemin aktif olmasını isteriz.
+
+( Burada başarılı tanımının aslında yeterince net olduğunu görüyoruz. Aslında burada araziyi puslandıranlar büyük ölçüde hatalı. Bizdeki bu kafa karışıklığı da Objektif bakıldığında insanın ihtiyaçları net ve wellbeing’i bir şekilde tahsis edilebilir. )
+
+Hitler Hakkında
+
+IQ Hakkında
+
+Stand Up Straight With Your Shoulders Back
+
+Intelectual dark side 
+
+
+Ön koşuludur. İletişime girmenin ön koşulu. Aslında her şey için ön koşul. Özgüvenimizi zedeleyen aslında bir çözümleme mekanizması ama haddinden fazlasını vermemek gerekiyor.
+
+
+Death and mortslity is a price to be paying.
+
+Voluntary acceptance of suffering is key to its transendence. - Jordan Peterson
+
+
+Jordan Peterson kişilik analizinde Big Five modelini kullanıyor. Burada Aggreebilness’ın mesela nasıl kötücül bir etkiye sahip olabildiğini görüyoruz.
+
+
+Sınırlı ömrünüzde size kendini gösteren gerçeklerden doğru değerleri çıkaramazsınız. Bu yüzden 3.5 milyar yıllık biyolojik bir yapıya sahipsiniz. Tanrı ebediyen ölür ve daha yüksek varlık ve gerçeğin peşinde yeniden doğar.
+
+You can't derive the right values from the facts that portray themselves to you in your limited lifespan. That is why you have a biological structure that's like 3.5 billion years old. God eternally dies and is reborn in the pursuit of higher being and truth.
+
+Truthfull spech that rectifies pathological hierarchies.
+Confronts the chaos of being itself and generates habitable order.
+Trancendent reality that is only observable accross to longest iterable time frames.
+
+
+
+
+
 
 
