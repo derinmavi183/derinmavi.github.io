@@ -1,3 +1,9 @@
+Son yıllarda Kanadalı klinik psikolog Jordan Peterson’una batıda büyük bir ilgi var. Kimi zaman fazla ciddiye alınmasa da benim kişisel fikrim de Peterson'un gerçekten ileri seviye bir entelektüel olduğu yönünde. YouTube üzerinde ders serileri derinlik barındırıyor.
+
+Bilimsel olarak insan algısını incelediğini görüyoruz. Din ile ilgili opurtunist bir tarafı var tabi tıpkı self authoring programı direk fayda sağlayacağı bir ürün olarak ortaya koyması gibi. Özellikle postmodernizm okuması biraz üstünkörü. Bu nedenle yalnızca faydalı bulduğum bazı notları paylaşmak istedim.
+
+## Jordan Peterson’dan İnciler
+
 > Değer problemi. Daha bilimsel sorulara yol açan dünyanın neyden yapılmış olduğu ya da nasıl işlediği değil insanın dünyada kendini nasıl konumlandıracağı, nasıl hareket edeceği. İnsanlar hedeflere doğru yöneliyor. İstedikleri şeye ulaşmada arzuları rehberlik ediyor. Ama yalnızca bireysel arzu değil. Arzuların birbirine bağlandığı yapı tarafından da rehberlik ediliyor. Yani hangi arzular ifade ediliyor ve birbirleri ile ilişkileri nedir? Bu da gerektiğinden fazla çatışmadan kaçınarak işbirliği anlamına geliyor. Böylece toplu bir hedefe doğru gidiyorlar. İnsanlar bunu sosyal ve psikolojik olarak yapıyorlar. Etkileşim arzuların herkes tarafından kabul edilebilir biçimde düzenlemesi anlamına geliyor. Bunu yaparken aynı anda arzuların sıralandığı süreci gözlemliyor ve bu süreci içselleştirerek kendi arzularımızı düzenlemekte kullanıyoruz. Yani sabit bir geri besleme bilgilendirme mekanizması söz konusu. Peki buradan kazanç nedir? Eğer kendi arzuların tarafından yanıltılmak istemiyorsan onları organize etmek zorundasın. Bunların bir kısmı kısa süreli , orta süreli veyaz uzun süreli. Bazıları bir tarafa hedef alırken bazıları başka tarafa alıyor. Birbirleriyle uyum içerisinde olmamaları olası. İçerideki bu değer sistemini zekice, turarlı biçimde ortaya serersen, Dünyaya uyguladığında daha az çatışma daha az belirsizlik ve sefaletle karşılaşacaksın ve istediğini elde etme ihtimalin artacak. Aynı zmaanda öteki insanlarla işbirliği yaparak istediğini elde edeceksin onlarla fazladan çatışmaya girmeyerek. 
 
 > Hitler Berlin'in altında bir sığınakta Avrupa yanarken intahar etti. Psikoanalitik düşünceye sahip bir tarihçi buradan çıkarabileceği bir sonuç istediğinin bu olduğudur. Bu gerçekten birinin arzulayabileceği bir şey midir? Neden biri bunu arzular? Eğer bir insan bunu arzulayabiliyorsa bu bizim için ne söyler? Ben bunu asla arzulamam denilebilir.  Peki seni neyin peşinde olduğunun güvenilir bir yargıcı yapan şey nedir?
@@ -9,14 +15,7 @@
 
 > Nietzche, insan ruhuyla ilgili olduğunda genellikle cinlerden bahseder. Orta seviye için aile, para, statü, cinsel cazibe. Arka plan her zaman daha önemlidir. Bir kişinin dürtüleri nelerdir? Biyolojik dürtüler. Uykuya dal, bulaşıkları temizle. Bir şey yaz. Biz neyiz? Bu şeylerin yaşadığı yer. Ruhların ikamet ettiği dönüp durduğu bu yer. Bazıları cindir. Cin nedir? Korkunç derecede güçlü bir şey, korkunç derecede küçük bir bölmede tutulan. Bazıları şeytandır. İblisler, kendi iradeleri olan ve genel olarak iyiyi amaçlamayan şeyler. Her biri eğer fırsat verilirse tüm dünyayı şekillendirmeye teşebbüs edecektir. Tek göz fikri Cyclops tek gözlüdür ve dev gibidir tek bir şey ister. Kavramsallaştırmasıdır. They are constantly in war. Phisophy tries to that cyclops do dominate all psycological structure and cultural structure and the world. Organizing something is that too. 
 
-Jordan Peterson’dan İnciler
-
-Son yıllarda Kanadalı klinik psikolog Jordan Peterson’una batıda büyük bir ilgi var. Peterson gerçekten üst düzeyde bir entelektüel. Ben de peterson’u dinleyenlerdenim. Youtube’daki ders serilerinin birçoğunu dinledim. 21. Rules For Life kitabını okudum. Yakın bir süre öncesine kadar Toronto üniversitesinde ders veriyordu. İnternetteki videoları da bu derslerden oluşmakta.
-
-Öte yandan benim de hak verdiğim birtakım eleştiriler de var tabi. Bilimsel olarak insan algısını incelediğini görüyoruz. Din ile ilgili opurtunist bir tarafı var tabi tıpkı self authoring programı direk fayda sağlayacağı bir ürün olarak ortaya koyması gibi. Birincisi dinle olan ilginç bağı. Aynı zamanda postmodernizm okuması biraz üstünkörü. Bu nedenle yalnızca faydalı bulduğum bazı notları paylaşmak istedim.
-
-
-Üniversiteler Üzerine
+# Üniversitelerin Durumu
 
 Hedefler Hiyerarşisi
 
@@ -27,7 +26,6 @@ Hedefler hiyerarşisi dediğimizde bahsettiğimiz aslında bu. Her ne kadar bell
 
 ( Burada başarılı tanımının aslında yeterince net olduğunu görüyoruz. Aslında burada araziyi puslandıranlar büyük ölçüde hatalı. Bizdeki bu kafa karışıklığı da Objektif bakıldığında insanın ihtiyaçları net ve wellbeing’i bir şekilde tahsis edilebilir. )
 
-Hitler Hakkında
 
 IQ Hakkında
 
@@ -35,19 +33,15 @@ Stand Up Straight With Your Shoulders Back
 
 Intelectual dark side 
 
-
 Ön koşuludur. İletişime girmenin ön koşulu. Aslında her şey için ön koşul. Özgüvenimizi zedeleyen aslında bir çözümleme mekanizması ama haddinden fazlasını vermemek gerekiyor.
-
 
 Death and mortslity is a price to be paying.
 
 Voluntary acceptance of suffering is key to its transendence. - Jordan Peterson
 
-
 Jordan Peterson kişilik analizinde Big Five modelini kullanıyor. Burada Aggreebilness’ın mesela nasıl kötücül bir etkiye sahip olabildiğini görüyoruz.
 
-
-Sınırlı ömrünüzde size kendini gösteren gerçeklerden doğru değerleri çıkaramazsınız. Bu yüzden 3.5 milyar yıllık biyolojik bir yapıya sahipsiniz. Tanrı ebediyen ölür ve daha yüksek varlık ve gerçeğin peşinde yeniden doğar.
+Sınırlı ömrünüzde size kendini gösteren gerçeklerden doğru değerleri çıkaramazsınız. Bu yüzden 3.5 milyar yıllık biyolojik bir yapıya sahipsiniz.
 
 You can't derive the right values from the facts that portray themselves to you in your limited lifespan. That is why you have a biological structure that's like 3.5 billion years old. God eternally dies and is reborn in the pursuit of higher being and truth.
 
