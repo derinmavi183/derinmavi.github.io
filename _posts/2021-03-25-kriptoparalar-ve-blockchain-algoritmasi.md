@@ -2,7 +2,7 @@
 title: Kriptoparalar ve Blockchain Algoritması
 date: 2021-03-25
 description: 
-category: Kitap
+category: Teknoloji
 thumb: https://derinmavi.io/images/block1.jpg
 permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
