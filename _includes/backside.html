@@ -6,7 +6,7 @@
            <h3>Felsefe</h3>
            <div class="ps-4">
               {% for post in site.categories.Philosophy %}
-              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></div>
+              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} • {{ post.title }}</a></div>
               {% endfor %}
            </div>
         </div>
@@ -15,7 +15,7 @@
            <h3>Sanat</h3>
            <div class="ps-4">
               {% for post in site.categories.Art %}
-              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></div>
+              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} • {{ post.title }}</a></div>
               {% endfor %}
            </div>
         </div>
@@ -25,7 +25,7 @@
            <h3>Edebiyat</h3>
            <div class="ps-4">
               {% for post in site.categories.Literature %}
-              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></div>
+              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} • {{ post.title }}</a></div>
               {% endfor %}
            </div>
         </div>
@@ -35,7 +35,7 @@
            <h3>Teknoloji</h3>
            <div class="ps-4">
               {% for post in site.categories.Tech %}
-              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></div>
+              <div><a class="text-decoration-none text-muted" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} • {{ post.title }}</a></div>
               {% endfor %}
            </div>
         </div>
