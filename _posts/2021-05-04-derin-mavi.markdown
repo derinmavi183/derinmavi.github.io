@@ -2,8 +2,8 @@
 layout: post
 title:  "Derin Mavi"
 date:   2021-05-04 12:58:51 -0500
-categories: jekyll update
-author: Author Name
+categories: meta
+author: dblue
 thumb: "https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/master/images/thumb1.jpg"
 ---
 
