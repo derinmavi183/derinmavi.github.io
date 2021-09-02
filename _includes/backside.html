@@ -6,7 +6,7 @@
            <h3>Felsefe</h3>
            <div class="ps-4">
               {% for post in site.categories.Philosophy %}
-              <div><span>{{ post.date | date_to_string }}</span> &nbsp; <a class="text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
+              <div><a class="text-decoration-none" href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></div>
               {% endfor %}
            </div>
         </div>
