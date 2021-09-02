@@ -30,8 +30,8 @@ layout: default
       <div class="container-fluid py-4">
         <div style="font-size: 13px !important;">
           
-          {% for poem in site.categories.poems %}
-          {{ poem.name }}
+          {% for post in site.categories.shorts %}
+          {{ post.id }}
           {% endfor %}
           
           <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#sinema</a>
