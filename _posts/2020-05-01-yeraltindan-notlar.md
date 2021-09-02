@@ -2,7 +2,7 @@
 title: Yeraltından Notlar
 date: 2020-05-01
 description: 
-categories: Edebiyat
+categories: Literature
 permalink: yeraltindan-notlar
 thumb: https://derinmavi.io/images/n1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
