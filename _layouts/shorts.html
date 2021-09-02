@@ -31,14 +31,10 @@ layout: default
         <div style="font-size: 13px !important;">
           
           {% for post in site.categories.shorts %}
-          {{ post.id }}
+          <a class="btn btn-light" href="{{ post.url }}" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">{{ post.title }}</a>
           {% endfor %}
           
-          <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#sinema</a>
-          <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#müzik</a>
-          <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#tespit</a>
-          <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#felsefe</a>
-          <a class="btn btn-light" style=" font-size: 13px; border: 1px solid black; margin-right: 20px; ">#şiirsel</a>
+          
         </div>
         <div class="col-md-8 fs-4" style="font-size: 13px !important;"></div>
       </div>
