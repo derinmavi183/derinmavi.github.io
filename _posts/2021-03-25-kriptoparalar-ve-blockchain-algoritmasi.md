@@ -1,6 +1,6 @@
 ---
 title: Kriptoparalar ve Blockchain Algoritması
-categories: Teknoloji
+categories: Tech
 thumb: https://derinmavi.io/images/block1.jpg
 permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
