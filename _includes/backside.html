@@ -1,14 +1,17 @@
 <div class="row align-items-md-stretch py-4">
 
     <div class="col-md-8">
-        
-        
-        <h3>Felsefe</h3>
+
+        <div>
+           <h3>Felsefe</h3>
+           <div>
+              {% for post in site.categories.Philosophy %}
+              <div><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></div>
+              {% endfor %}
+           </div>
+        </div>
             
-                {% for post in site.categories.Philosophy %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-            
+       
         <h3>Sanat</h3>
             
                 {% for post in site.categories.Art %}
