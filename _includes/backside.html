@@ -3,25 +3,25 @@
     <div class="col-md-8">
         
         
-        <h3>Felsefe<h3>
+        <h3>Felsefe</h3>
             
                 {% for post in site.categories.Philosophy %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             
-        <h3>Sanat<h3>
+        <h3>Sanat</h3>
             
                 {% for post in site.categories.Art %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             
-        <h3>Edebiyat<h3>
+        <h3>Edebiyat</h3>
             
                 {% for post in site.categories.Literature %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
             
-        <h3>Teknoloji<h3>
+        <h3>Teknoloji</h3>
         
         {% for post in site.categories.Tech %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
