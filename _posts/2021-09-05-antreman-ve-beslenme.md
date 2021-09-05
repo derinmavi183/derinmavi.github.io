@@ -4,7 +4,7 @@ title: "Antreman Düzeni"
 categories: Philosophy
 ---
 
-## Fitness Başlangıç Antremanı
+# Fitness Başlangıç Antremanı
 
 Ağırlıklı çalışma kısmı halter’le çalışmaya yeni başlayacaklara göre. Eğer stable barbell lift’lere aşinaysanız (Bench Press, Overhead Press, Row, Squat, Deadlift) daha kapsamlı bir rutin sizin için daha iyi olabilir.
 
@@ -103,7 +103,11 @@ Son setinizde 10'dan fazla tekrar yaparsanız, ağırlık ilerlemesini ikiye kat
 
 Bir hareket için toplamda en az 15 tekrarı tamamlayamazsanız, bir sonraki seferde ağırlıktan %10 çıkartın. Bunun yerine tekrarı arttırın.
 
-### Cardio ve Kondisyon
+Başlangıç Ağırlığının Bulunması : Boş ile başlanarak 10 kg (10-20 lbs) ile başlayıp parça parça arttırabilirsiniz.
+
+Chinups Yapamıyorsanız. lat pulldown machine kullanabilirsiniz.
+
+# Cardio ve Kondisyon
 
 Ağırlık çalışmasına ek olarak dayanıklılığımızı arttırmak için ağırlık çalışmasına ek olarak haftada en az iki gün cardio ve kondisyon çalışması yapmak gerekiyor. 
 
@@ -114,12 +118,6 @@ Yüksek Yoğunluklu Gün: Seçenek olarak HIIT, Tabata, Circuit training gibi se
 Rutinin bu kısmı çok, çok esnek, bu yüzden burada seçimlerimiz üzerinde fazla düşünmememiz tavsiye ediliyor. Yaptığımız şeyin özelliklerine fazla takılmadan sadece gerekli işi yaptığımızdan emin oluyoruz.
 
 Kardiyo ve kondisyon çalışmalarınızı haftanın her günü yapılabiliyor. Bunu ağırlık kaldırdığınız gün yaparsanız, bunu kaldırmadan sonra yapmak daha iyidir - aksi takdirde sizi biraz yorar ve kaldırmadaki performansınız düşebilir.
-
-### Notlar
-
-Başlangıç Ağırlığının Bulunması : Boş ile başlanarak 10 kg (10-20 lbs) ile başlayıp parça parça arttırabilirsiniz.
-
-Chinups Yapamıyorsanız. lat pulldown machine kullanabilirsiniz.
 
 ### 8 Haftalık HIIT Programı
 
