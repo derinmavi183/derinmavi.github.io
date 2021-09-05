@@ -1,3 +1,7 @@
+# Slavoj Zizek Budizm'in Eleştirisi
+
+D. T. Suzuki VE Zen Budizmi
+
 Budizm'in nasıl başladığını biliyoruz. Problem acı.
 Bütün yaşayan canlılar mutluluk ister daha az acı çekmek ister.
 Acımızın kaynağı nedir? Arzu. Hikayeyi biliyorsunuz.
