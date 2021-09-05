@@ -4,6 +4,8 @@ title: "Antreman Düzeni"
 categories: Philosophy
 ---
 
+## Fitness Başlangıç Antremanı
+
 Ağırlıklı çalışma kısmı halter’le çalışmaya yeni başlayacaklara göre. Eğer stable barbell lift’lere aşinaysanız (Bench Press, Overhead Press, Row, Squat, Deadlift) daha kapsamlı bir rutin sizin için daha iyi olabilir.
 
 Kilo artışı hedeflemiyorum aksine kilo vermeye çalışıyorum. Bu nedenle antreman süresince yediklerimi not alacak kilomu azaltmaya çalışacağım.
