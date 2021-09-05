@@ -22,7 +22,7 @@ Bu rutinin 3 ay boyunca takip edilmesi tavsiye ediliyor. Bu noktadan sonra uzun 
 
 Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak geçiyor. Çok basit bir şekilde Antreman A ve Antreman B olarak iki antreman düzenini sırayla uyguluyoruz. Her bir çalışmanın ertesi günü dinleniyoruz. Pazartesi/Çarşamba/Cuma gibi haftanın üç günü olabileceği gibi A -> Dinlen -> B -> Dinlen - > Tekrarla şeklinde devam edebiliyoruz. 
 
-<table>
+<table class="table">
 <thead>
   <tr>
     <th><br>Antreman A</th>
@@ -54,7 +54,7 @@ Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak g
 </table>
 
 
-<table>
+<table class="table">
 <thead>
   <tr>
     <th>Antreman B</th>
@@ -143,33 +143,33 @@ Bu koşullandırma rutinini çeşitli egzersizler kullanarak yapabilirsiniz. Bun
 Örneğin ben Cycling rutini ile başlıyorum. Koşu bandı da olabilir. Tabata orjinalinde 20 saniye açık 10 saniye kapalı biçiminde bunu 30 saniye açık 10 saniye kapalı biçimine çevirebiliriz.
 
 
-<table>
+<table class="table">
 <thead>
   <tr>
-    <th><br>Faz 1</th>
-    <th><br>Set</th>
-    <th><br>Süre</th>
-    <th><br>Hareket</th>
+    <th>Faz 1</th>
+    <th>Set</th>
+    <th>Süre</th>
+    <th>Hareket</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Isınma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Isınma</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>10</td>
-    <td><br>15:1dk</td>
-    <td><br>15 saniye sprint 1 dakika dinlenme</td>
+    <td>Cycle</td>
+    <td>10</td>
+    <td>15:1dk</td>
+    <td>15 saniye sprint 1 dakika dinlenme</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Soğuma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Soğuma</td>
   </tr>
 </tbody>
 </table>
@@ -177,95 +177,95 @@ Bu koşullandırma rutinini çeşitli egzersizler kullanarak yapabilirsiniz. Bun
 
 Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bir hızda sürüyoruz.
 
-<table>
+<table class="table">
 <thead>
   <tr>
-    <th><br>Faz 2</th>
-    <th><br>Set</th>
-    <th><br>Süre</th>
-    <th><br>Hareket</th>
+    <th>Faz 2</th>
+    <th>Set</th>
+    <th>Süre</th>
+    <th>Hareket</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Isınma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Isınma</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>10</td>
-    <td><br>30:1dk</td>
-    <td><br>15 saniye sprint 1 dakika dinlenme</td>
+    <td>Cycle</td>
+    <td>10</td>
+    <td>30:1dk</td>
+    <td>15 saniye sprint 1 dakika dinlenme</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Soğuma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Soğuma</td>
   </tr>
 </tbody>
 </table>
 
-<table>
+<table class="table">
 <thead>
   <tr>
-    <th><br>Faz 3</th>
-    <th><br>Set</th>
-    <th><br>Süre</th>
-    <th><br>Hareket</th>
+    <th>Faz 3</th>
+    <th>Set</th>
+    <th>Süre</th>
+    <th>Hareket</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Isınma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Isınma</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>15</td>
-    <td><br>30:30</td>
-    <td><br>15 saniye sprint 1 dakika dinlenme</td>
+    <td>Cycle</td>
+    <td>15</td>
+    <td>30:30</td>
+    <td>15 saniye sprint 1 dakika dinlenme</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Soğuma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Soğuma</td>
   </tr>
 </tbody>
 </table>
 
-<table>
+<table class="table">
 <thead>
   <tr>
-    <th><br>Faz 4</th>
-    <th><br>Set</th>
-    <th><br>Süre</th>
-    <th><br>Hareket</th>
+    <th scope="col">Faz 4</th>
+    <th scope="col">Set</th>
+    <th scope="col">Süre</th>
+    <th scope="col">Hareket</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Isınma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Isınma</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>15</td>
-    <td><br>30:15</td>
-    <td><br>15 saniye sprint 1 dakika dinlenme</td>
+    <td>Cycle</td>
+    <td>15</td>
+    <td>30:15</td>
+    <td>15 saniye sprint 1 dakika dinlenme</td>
   </tr>
   <tr>
-    <td><br>Cycle</td>
-    <td><br>1</td>
-    <td><br>5 dk</td>
-    <td><br>Soğuma</td>
+    <td>Cycle</td>
+    <td>1</td>
+    <td>5 dk</td>
+    <td>Soğuma</td>
   </tr>
 </tbody>
 </table>
