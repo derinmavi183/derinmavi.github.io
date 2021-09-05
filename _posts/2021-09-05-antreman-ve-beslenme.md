@@ -25,30 +25,30 @@ Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak g
 <table class="table">
 <thead>
   <tr>
-    <th><br>Antreman A</th>
-    <th><br>Set 1</th>
-    <th><br>Set 2</th>
-    <th><br>Set 3</th>
+    <th>Antreman A</th>
+    <th>Set 1</th>
+    <th>Set 2</th>
+    <th>Set 3</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Barbell Row</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Barbell Row</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
   <tr>
-    <td><br>Bench Press</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Bench Press</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
   <tr>
-    <td><br>Squat (Ağırlıkla)</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Squat (Ağırlıkla)</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
 </tbody>
 </table>
@@ -58,33 +58,32 @@ Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak g
 <thead>
   <tr>
     <th>Antreman B</th>
-    <th><br>Set 1</th>
-    <th><br>Set 2</th>
-    <th><br>Set 3</th>
+    <th>Set 1</th>
+    <th>Set 2</th>
+    <th>Set 3</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><br>Chinup (veya benzeri)</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Chinup (veya benzeri)</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
   <tr>
-    <td><br>Overhead Press</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Overhead Press</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
   <tr>
-    <td><br>Deadlift</td>
-    <td><br>5</td>
-    <td><br>5</td>
-    <td><br>5+</td>
+    <td>Deadlift</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5+</td>
   </tr>
 </tbody>
 </table>
-
 
 Her bir hareketin tüm setlerini tamamladıktan sonra diğerine geçiyoruz. SetxTekrar şeklinde bir gösterim kullandık. + işaretinin anlamıysa son sette ne kadar yapabiliyorsan anlamındadır.
 
