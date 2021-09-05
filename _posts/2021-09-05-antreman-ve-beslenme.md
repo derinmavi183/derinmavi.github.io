@@ -22,7 +22,7 @@ Bu rutinin 3 ay boyunca takip edilmesi tavsiye ediliyor. Bu noktadan sonra uzun 
 
 Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak geçiyor. Çok basit bir şekilde Antreman A ve Antreman B olarak iki antreman düzenini sırayla uyguluyoruz. Her bir çalışmanın ertesi günü dinleniyoruz. Pazartesi/Çarşamba/Cuma gibi haftanın üç günü olabileceği gibi A -> Dinlen -> B -> Dinlen - > Tekrarla şeklinde devam edebiliyoruz. 
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th>Antreman A</th>
@@ -54,7 +54,7 @@ Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak g
 </table>
 
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th>Antreman B</th>
@@ -140,7 +140,7 @@ Bu koşullandırma rutinini çeşitli egzersizler kullanarak yapabilirsiniz. Bun
 Örneğin ben Cycling rutini ile başlıyorum. Koşu bandı da olabilir. Tabata orjinalinde 20 saniye açık 10 saniye kapalı biçiminde bunu 30 saniye açık 10 saniye kapalı biçimine çevirebiliriz.
 
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th>Faz 1</th>
@@ -174,7 +174,7 @@ Bu koşullandırma rutinini çeşitli egzersizler kullanarak yapabilirsiniz. Bun
 
 Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bir hızda sürüyoruz.
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th>Faz 2</th>
@@ -205,7 +205,7 @@ Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bi
 </tbody>
 </table>
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th>Faz 3</th>
@@ -236,7 +236,7 @@ Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bi
 </tbody>
 </table>
 
-<table class="table">
+<table class="table table-bordered">
 <thead>
   <tr>
     <th scope="col">Faz 4</th>
