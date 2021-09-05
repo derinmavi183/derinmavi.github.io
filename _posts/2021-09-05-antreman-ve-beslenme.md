@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antreman Düzeni"
+title: "Antreman ve Beslenme Rehberi"
 categories: Philosophy
 ---
 
