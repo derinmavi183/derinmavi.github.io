@@ -49,9 +49,8 @@ Bunlar üzerinden bir temel inşa etmenin inanılmaz derecede pratik olduğunu d
 
 <img src="https://derinmavi.io/images/HFT_HFT-Diagram3.jpg" alt="Suzanne Treister - Bahçıvan HFT" class="img-fluid">
 
-Her bir bitki kartına gösterilen müthiş detay ilgi.
-İnsan konsantrasyonunun bu şekilde kullanılması.
-Numeroloji, sanrı yaratan maddeler. Darren Aronofsky'nin Pi filmindeki gibi. Fakat komplo teorisyeni. Deliliğin sınırlarında. Burada bahsedilen high frequency trading de ilginç bir konu.
+Her bir bitki kartına gösterilen müthiş detay ilgi ve eserin üreticisinin konsantrasyonunu bu şekilde kullanılması beni şaşırttı.
+Numeroloji, sanrı yaratan maddeler. Darren Aronofsky'nin Pi filmini andırıyor. Fakat komplo teorisyeni. Deliliğin sınırlarında. Burada bahsedilen high frequency trading de ilginç bir konu.
 
 > Sermayenin hareketleri sanrılar yaratır: Hem mevcut hem görünmez, eşit derecede gerçek ve hayalidirler.
 Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbirliğine dayalı çalışmalarında genellikle takma isimler kullanıyor, bu isimlere uygun sanatçı biyografileri ve çalışmalar üretiyor. Bahçıvan HFT, algoritmalar üstünden yüksek frekanslı işlemler (HFT) yapan bir borsacı ve “tekno-şaman” olan Hillel Fischer Traumberg’in eserlerinden bir derleme. Bu kurgusal karakter bir taraftan algıyı değiştiren ilaçlar ve bitkilerle deneyler yaparken, bir taraftan da bitkilerin hayatı, şamanizm, numeroloji ve sermayeye yüksek frekanslı işlemlerle yön verenler arasında bağlantılar kuruyor. Eser, sanrı yaratan maddeler, sermaye ve sanat, psikoaktif ilaçlar ve bilinç arasındaki bir dizi bağlantıyı sergiliyor. - Bianel Tanıtımından
@@ -61,9 +60,7 @@ Suzanne Treister, resim ve videolarının yanı sıra internet temelli ve işbir
 
 ### Johannes Büttner - Başka bir yaşam olasılığı kendisini yanan bir polis arabasında doğrudan, arkadaşlarımın yüzlerinde ise dolaylı olarak ifade eder, 2019
 
-
 <img src="https://derinmavi.io/images/buttner.jpg" alt="Johannes Büttner" class="img-fluid">
-
 
 > Çin’in mezara gömülü terakota askerlerinin zamanından günümüze kadar yöneticiler kitleleri hep kullanageldi ama bu kitlelerin iktidarı kinetik değil, göstergesel güçlerinden geliyordu. Johannes Büttner’in Hannah Black’ten alıntıyla adlandırdığı çalışması, şiddet temsillerini ele alıyor. Yerleştirme, farklı topraklardan yoğurulmuş yedi heykelden oluşuyor; her bir heykelin altında bir makinenin iskeleti var. Heykeller, bilimkurgu savaşçıları, toplum polisi ve tepetaklak çevrilmiş terakota askerlerin bir karışımına benziyor. Kontrolü kaybetmiş veya işi şiddete dökmüş bir algoritmalar ve ağlar dünyasına titreşip sarsılarak tepki veriyor, makine suretinde bir Golem’i serbest bırakıyorlar. - Bianel Tanıtımından
 
