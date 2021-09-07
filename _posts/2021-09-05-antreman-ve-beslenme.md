@@ -7,6 +7,8 @@ categories: Philosophy
 Fitness ve beslenme diyetleri çoğu zaman karmaşık görünebiliyor. Bilgiye ulaşmanın bu kadar kolay olduğu günümüzde bu alandaki güncel doğru bilgiye ulaşmak aslında zor değil. Sadece nitelikli kaynaklardan araştırmak ve bir ürün ya da diyeti size satmak amacıyla size yaklaşan pazarlamacılardan ziyade bu konunun araştırmacılarına yönelmek gerekiyor. 
 Bir başlangıç yapmak için aslında konunun tamamını bir anda öğrenmek gibi bir zorunluluk da yok.
 
+<img src="https://derinmavi.io/images/vDYdXDzkhs.jpg" alt="Barbell" class="img-fluid">
+
 Bu konuda internette gezinirken reddit'in fitness kanalı gözüme çarptı. Buradaki kişiler tüm dünyada fitness'a yeni başlayacaklar için önerileri sıraladıkları bir wiki oluşturmuşlar. Wiki içerisinde çok güzel öneriler mevcut. Ben de buradaki fitness başlangıç antremanını uygulamaya başladım. Aşağıdaki programda bu wiki'den faydalandım. 
 
 * Fitness Başlangıç Antremanı
