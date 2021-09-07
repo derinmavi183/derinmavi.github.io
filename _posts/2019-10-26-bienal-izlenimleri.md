@@ -85,8 +85,6 @@ Bianel Tanıtımından:
 Film hakkında diğer bilgiler için:
 * http://www.ursulamayer.com/films/atomspirit.html
 
-Filmi İzlemek İçin:
-* https://vimeo.com/434339144
 
 ### Korakrit Arunanondchai - tarihle birlikte tuhaf isimli insanlarla dolu bir odada 4 
 *With history in a room filled with people with funny names 4, HD Video: 23’28”*
@@ -98,6 +96,8 @@ Bianel Tanıtımından:
 
 * Fragmanı: https://vimeo.com/261026131
 
-Bir diğer dikkatimi çeken nokta da filmleri festival dışında kolay kolay bulamıyor oluşumuz. Şu çağda şu ortamda bile ulaşmanın bu derece zor olması insana bir fikir veriyor. Demek ki kaliteli görsel işitsel eğlence ürünü zor bulunuyor ve bizler kalitesizlere boğulmuş durumdayız.
+### Aklımda Kalanlar
+
+Özellikle filmlerde dikkatimi çeken nokta filmleri festival dışında kolay kolay bulamıyor oluşumuz oldu. Şu çağda şu ortamda bile ulaşmanın bu derece zor olması insana bir fikir veriyor. Demek ki kaliteli görsel işitsel eğlence ürünü hala zor bulunuyor ve gündelik dozumuzda kalitesizlere boğulmuş durumdayız.
 
 Bienal'den gayet mutlu ayrıldığımı belirtmeliyim. Hem atmosferden hem de gördüğüm sanat eserlerinden o kadar etkileniyorum ki farklı bir dünyaya yolculuk yapmış gibi oluyorum. İçinde bulunduğum ruh hali, modum tamamen değişiyor. Bizimle orada konuşan her ne ise gündelik hayatımızda karşımıza çıkmıyor. İzlediğimiz dizilerde ya da sosyal medya ile dolduramadığımız bir açlık buradaki. Demek ki bu sesi daha çok dinlemek gerekiyor, ona daha fazla zaman ayırmak gerekiyor, onu hayatımıza daha çok katmak gerekiyor ki buradan alacağımız enerjiyle hayatlarımıza bambaşka yerlere taşıyabilelim. Ben bu düşünceyle sonraki Bienalleri de merakla bekliyorum.
