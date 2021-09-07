@@ -4,7 +4,17 @@ title: "Antreman ve Beslenme Rehberi"
 categories: Philosophy
 ---
 
-# Fitness Başlangıç Antremanı
+Fitness ve beslenme diyetleri çoğu zaman karmaşık görünebiliyor. Bilgiye ulaşmanın bu kadar kolay olduğu günümüzde bu alandaki güncel doğru bilgiye ulaşmak aslında zor değil. Sadece nitelikli kaynaklardan araştırmak ve bir ürün ya da diyeti size satmak amacıyla size yaklaşan pazarlamacılardan ziyade bu konunun araştırmacılarına yönelmek gerekiyor. 
+Bir başlangıç yapmak için aslında konunun tamamını bir anda öğrenmek gibi bir zorunluluk da yok.
+
+Bu konuda internette gezinirken reddit'in fitness kanalı gözüme çarptı. Buradaki kişiler tüm dünyada fitness'a yeni başlayacaklar için önerileri sıraladıkları bir wiki oluşturmuşlar. Wiki içerisinde çok güzel öneriler mevcut. Ben de buradaki fitness başlangıç antremanını uygulamaya başladım. Aşağıdaki programda bu wiki'den faydalandım. 
+
+* Fitness Başlangıç Antremanı
+* Ağırlıklı Kuvvet Antremanı
+* Ağırlık İlerlemesi
+* 8 Haftalık HIIT Programı
+
+#### Fitness Başlangıç Antremanı
 
 Ağırlıklı çalışma kısmı halter’le çalışmaya yeni başlayacaklara göre. Eğer stable barbell lift’lere aşinaysanız (Bench Press, Overhead Press, Row, Squat, Deadlift) daha kapsamlı bir rutin sizin için daha iyi olabilir.
 
@@ -18,7 +28,7 @@ Bir diğer hedef ise, 1. günden itibaren birden fazla boyutta ilerlemeyi düş�
 
 Bu rutinin 3 ay boyunca takip edilmesi tavsiye ediliyor. Bu noktadan sonra uzun vadeli ilerlemeye daha iyi hizmet etmesi açısından set sayılarının, yoğunluğun, hareket çeşitlerinin ve toplam hacmin yeniden düzenlendiği  daha kapsamlı bir rutine geçilmesi öneriliyor. GZCLP ve 5/3/1 Başlangıç bir sonraki adım için önerilmiş.
 
-# Ağırlıklı Kuvvet Antremanı
+#### Ağırlıklı Kuvvet Antremanı
 
 Antemanımız Ağırlıklı Kuvvet Antremanı Barbell Strength Training olarak geçiyor. Çok basit bir şekilde Antreman A ve Antreman B olarak iki antreman düzenini sırayla uyguluyoruz. Her bir çalışmanın ertesi günü dinleniyoruz. Pazartesi/Çarşamba/Cuma gibi haftanın üç günü olabileceği gibi A -> Dinlen -> B -> Dinlen - > Tekrarla şeklinde devam edebiliyoruz. 
 
@@ -107,7 +117,7 @@ Başlangıç Ağırlığının Bulunması : Boş ile başlanarak 10 kg (10-20 lb
 
 Chinups Yapamıyorsanız. lat pulldown machine kullanabilirsiniz.
 
-# Cardio ve Kondisyon
+#### Cardio ve Kondisyon
 
 Ağırlık çalışmasına ek olarak dayanıklılığımızı arttırmak için ağırlık çalışmasına ek olarak haftada en az iki gün cardio ve kondisyon çalışması yapmak gerekiyor. 
 
@@ -119,7 +129,7 @@ Rutinin bu kısmı çok, çok esnek, bu yüzden burada seçimlerimiz üzerinde f
 
 Kardiyo ve kondisyon çalışmalarınızı haftanın her günü yapılabiliyor. Bunu ağırlık kaldırdığınız gün yaparsanız, bunu kaldırmadan sonra yapmak daha iyidir - aksi takdirde sizi biraz yorar ve kaldırmadaki performansınız düşebilir.
 
-### 8 Haftalık HIIT Programı
+#### 8 Haftalık HIIT Programı
 
 HIIT hight intersity interval training anlamına geliyor. HIIT aslında bir aralıklı antrenman (interval training) türü, aralarına dinlenme veya rahatlama periyotları serpiştirilmiş bir dizi yüksek yoğunluklu antrenmanı içeriyor. Burada amaç yüksek yoğunluklu periyotlarda artan eforu artırarak genel antrenman hacmini azaltmaya çalışır. .[1] 
 
@@ -267,7 +277,7 @@ Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bi
 </tbody>
 </table>
 
-## Bakılacak:
+## To Do
 * https://www.youtube.com/watch?v=edIK5SZYMZo&ab_channel=THENX
 * Learning And Improving Lifts
 * Beslenme Önerileri
