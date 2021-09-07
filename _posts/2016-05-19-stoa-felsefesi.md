@@ -9,11 +9,10 @@ categories: Philosophy
 Stoa Zeno tarafından milattan önce 3. yüzyılın başlarında Kıbrıs'lı Zeno tarafından Atina'da kuruluyor.
 Doğal dünyanın işleyişine yönelik bir bakış açısı geliştirerek kişisel bir etik ve mantıksal çıkarımlar ortaya koyuyorlar.
 Öğretilerinde mutluluk hali olarak tanımlanabilecek Eudomonia'a ya ulaşmayı hedefliyorlar.
-Kişi bu yolda anın içerisindeki yaşam tecrübesini kendisini ona nasıl sunuyorsa o şekilde algılıyor.
-Zihninin becerilerini kullanarak *zevk isteği* veya *acıdan kaçma* dürtüleri tarafından *kontrol* edilmiyor bu sayede *doğa'nın düzenine* uygun hareket ediyor.
-Bu sayede kendine ve başkalarına adil davranıyor.
+Stoa öğretine göre kişi herhangi bir andaki yaşam tecrübesini tecrübe kendisini ona nasıl sunuyorsa o şekilde algılar.
+Zihninin becerilerini kullanarak *zevk isteği* veya *acıdan kaçma* dürtüleri tarafından *kontrol* edilmez. Kontrolü elinde tutarak  *doğa'nın düzenine* uygun hareket etmiş olur. Bu sayede kendine ve başkalarına adil davranır.
 
-Stoacı filozoflarını erdem kavramını önemsediklerini söylemek mümkün. İnsandaki iyiliği erdem olarak tanımlıyorlar. Aynı zamanda erdem tek iyilik. Diğer bütün etkiler dışarıdan veya içeriden ne olursa olsun daha az öneme sahip. Örneğin adiaphora olarak sınıflandıracakları sağlık, servet, zevk kendi içerisinde iyi veya kötü değil. Erdemin üzerine uygulanacağı materyali oluşturmaları açısından değerliler. Ama önceliklerini erdem oluşturuyor.
+Stoacı filozoflar Aristo'dan beri süregelen erdem kavramını devam ettirdikleri gibi insandaki tek iyiliği de erdem olarak tanımlarlar. İster dışarıdan ister içeriden olsun Diğer bütün diğer etkiler daha az öneme sahiptir. Hayatın sağlık, şöhret, zevk gibi yönleri (adiaphora) kendi içerisinde iyi veya kötü olmayıp erdemin üzerine uygulanacağı materyali oluştururlar.
 
 Bu antik düşünce bence modern hayatlarımız için çok değerli. Başka bir yaşamın mümkünlüğünü gösteriyor her şeyden öte. Eğenin kıyısında bir felsefe okulunda 
 
