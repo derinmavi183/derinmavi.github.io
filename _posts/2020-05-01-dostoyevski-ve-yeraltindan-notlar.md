@@ -1,5 +1,5 @@
 ---
-title: Yeraltından Notlar
+title: Dostoyevski ve Yeraltından Notlar
 date: 2020-05-01
 description: 
 categories: Literature
