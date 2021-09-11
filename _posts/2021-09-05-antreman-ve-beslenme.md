@@ -4,29 +4,23 @@ title: "Antreman ve Beslenme Rehberi"
 categories: Philosophy
 ---
 
-Fitness ve beslenme diyetleri çoğu zaman karmaşık görünebiliyor. Bilgiye ulaşmanın bu kadar kolay olduğu günümüzde bu alandaki güncel doğru bilgiye ulaşmak aslında zor değil. Sadece nitelikli kaynaklardan araştırmak ve bir ürün ya da diyeti size satmak amacıyla size yaklaşan pazarlamacılardan ziyade bu konunun araştırmacılarına yönelmek gerekiyor. 
-Bir başlangıç yapmak için aslında konunun tamamını bir anda öğrenmek gibi bir zorunluluk da yok.
+Fitness ve beslenme diyetleri çoğu zaman karmaşık görünebiliyor. Bilgiye ulaşmanın bugün bu kadar kolayken bu alandaki güncel doğru bilgiye ulaşmakta ya da üretilen bu bilginin bir şekilde karşımıza çıkmasında birtakım engeller olduğu anlaşılabiliyor. Sadece nitelikli kaynaklardan araştırmak ve bir ürün ya da diyeti size satmak amacıyla size yaklaşan pazarlamacılardan ziyade bu konunun araştırmacılarına yönelmek gibi kişisel bir çaba ortaya koyabiliriz. Ama aslında hayatımıza bir parça sağlık katmak için buna da ihtiyacımız yok. İnternette yaptığım ufak bir araştırma ile kendime aşağıdaki gibi bir program çıkarttım.
 
 <img src="https://derinmavi.io/images/vDYdXDzkhs.jpg" alt="Barbell" class="img-fluid">
 
-Bu konuda internette gezinirken reddit'in fitness kanalı gözüme çarptı. Buradaki kişiler tüm dünyada fitness'a yeni başlayacaklar için önerileri sıraladıkları bir wiki oluşturmuşlar. Wiki içerisinde çok güzel öneriler mevcut. Ben de buradaki fitness başlangıç antremanını uygulamaya başladım. Aşağıdaki programda bu wiki'den faydalandım. 
+Reddit'in fitness kanalı gözüme çarptı. Buradaki kişiler tüm dünyada fitness'a yeni başlayacaklar için önerileri sıraladıkları bir wiki oluşturmuşlar. Beni ikna ettiğini söyleyebilirim. Wiki içerisinde çok güzel öneriler mevcut. Ben de buradaki fitness başlangıç antremanını uygulamaya başladım. Aşağıdaki programda bu wiki'den faydalandım.
 
-* Fitness Başlangıç Antremanı
 * Ağırlıklı Kuvvet Antremanı
 * Ağırlık İlerlemesi
 * 8 Haftalık HIIT Programı
 
-#### Fitness Başlangıç Antremanı
-
 Ağırlıklı çalışma kısmı halter’le çalışmaya yeni başlayacaklara göre. Eğer stable barbell lift’lere aşinaysanız (Bench Press, Overhead Press, Row, Squat, Deadlift) daha kapsamlı bir rutin sizin için daha iyi olabilir.
-
-Kilo artışı hedeflemiyorum aksine kilo vermeye çalışıyorum. Bu nedenle antreman süresince yediklerimi not alacak kilomu azaltmaya çalışacağım.
 
 Bu rutin aslında bir alıştırma amaçlıyor. Yeni başlayanların spor salonuna girmesine, standart halter kaldırma ile antrenmana başlamasına ve sürekli spor salonuna gitme alışkanlığı kazanmasına yardımcı olacak basit, takip etmesi kolay bir rutin.
 
 Zaman içerisinde tutarlı kalmaktaki yetersizlik ilerleme kaydetme yönünde en büyük eksiklik olduğundan amaç bariyeri aşağı çekerek başlama ve ve tutarlı kalmanın önündeki engeli mümkün olduğunca azaltmaya çalışılmış.
 
-Bir diğer hedef ise, 1. günden itibaren birden fazla boyutta ilerlemeyi düşünerek başlamaktır – sadece ağırlığı artırmak değil, belirli bir ağırlıkta tekrarları artırmak. Aynı zamanda ağırlık çalışmasını HIIT ile desteklemek.
+Bir diğer hedef ise sadece ağırlığı artırmak değil, belirli bir ağırlıkta tekrarları artırmak. Aynı zamanda ağırlık çalışmasını HIIT ile desteklemek.
 
 Bu rutinin 3 ay boyunca takip edilmesi tavsiye ediliyor. Bu noktadan sonra uzun vadeli ilerlemeye daha iyi hizmet etmesi açısından set sayılarının, yoğunluğun, hareket çeşitlerinin ve toplam hacmin yeniden düzenlendiği  daha kapsamlı bir rutine geçilmesi öneriliyor. GZCLP ve 5/3/1 Başlangıç bir sonraki adım için önerilmiş.
 
@@ -105,7 +99,7 @@ Tekrarların net, kaliteli tekrarlar olmasını istiyoruz. Gerçek bir kas zorla
 
 Nasıl hissettiğinize bağlı olarak, her set arasında 2-3 dakika dinlenin. Egzersizler arasında 5 dakikaya kadar dinlenebilirsiniz.
 
-### Ağırlık İlerlemesi:
+#### Ağırlık İlerlemesi
 
 Üst vücut ağırlık kaldırma (bench press, overhead press, barbell row, chinup) için her gün toplam ağırlığın 2.5 lbs arttırılması bekleniyor.
 
@@ -279,9 +273,10 @@ Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bi
 </tbody>
 </table>
 
-## To Do
+#### Notlar
+
+* Nasıl bir fizik istediği bilerek ona göre de bir antreman yapmak gerekiyor.
 * https://www.youtube.com/watch?v=edIK5SZYMZo&ab_channel=THENX
-* Learning And Improving Lifts
-* Beslenme Önerileri
-* Back problems are very common. Yesterday I heard about a juijutsu coach on a podcast i watch his back is hurt. Geletinuous Disks deterioted to nothing. Bone on bone on his back basickly and he is in real pain. What can we do the cover that? Its very common with the office workers too. 
-* Vitamin D
+* Learning And Improving Lifts adında bir başlık da var.
+* Vitamin D ve B12 genel sağlık açısından çok önemli.
+* Sırt problemleri çok yaydın olarak görülüyor. Örneğin bir podcast'te juijutsu eğitmenini bahsediliyordu. Yoğun sırt ağrısı çekiyormuş. Jelatin Diskleri eriyip sıfıra inmiş. Sırtında kemikleri diğer kemiklerine temas eder durumdaymış ve ciddi bir acı çekiyormuş. Sırt ağrısı ofis çalışanları arasında da çok yaygın.
