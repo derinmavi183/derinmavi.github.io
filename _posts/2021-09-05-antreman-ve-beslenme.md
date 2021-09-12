@@ -273,6 +273,11 @@ Isınma ve soğuma esnasında 5 dakika boyunca canlı ancak sürdürülebilir bi
 </tbody>
 </table>
 
+#### Egzersiz Günlüğü
+
+* 11.09.2021 • Strength (Barbell Row, Squat) + HIIT (30 min)
+* 12.09.2021 • Düşük Yoğunluklu Yürüyüş 30 dk
+
 #### Notlar
 
 * Nasıl bir fizik istediği bilerek ona göre de bir antreman yapmak gerekiyor.
