@@ -10,11 +10,6 @@ Son yıllarda ciddi bir ilgi kaynağı haline gelen kriptoparalar hakkında kopa
 
 Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma olabilir. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
 
-<div class="row" style="margin-bottom: 2.5rem; margin-top: 2.5rem;">
-   <div class="ten columns"><img class="u-max-full-width" src="https://derinmavi.io/images/a2ls9-xmgav.png" alt="Kriptopara Bitcoin"></div>
-   <div class="two column"></div>
-</div>
-
 Dünya Blockchain'i 2008 yılında Satoshi Nakomoto ismiyle yayınlanan makale ile tanıdı. Nakomoto bir manada anonim kalsa da açık kaynaklı, merkezi olmayan ilk dijital para birimi bitcoin bu şekilde doğdu. [Orjinal bitcoin makalesine](https://bitcoin.org/bitcoin.pdf) internet üzerinden ulaşmak mümkün.
 
 Son yıllarda Bitcoin'in değerindeki büyük artış ile beraber kriptoparalar ilgi çeken bir konu haline geldi. İlgi sahibi insanların hepsi yeterince bilinçli değil. Sonuç olarak bu durumu istismar eden pek çok kişi de türedi. Konuyla ilgili materyal çok ama hepsi aynı kalitede değil. İşleyişi anlamaya çalışmak bence bu noktada daha faydalı olabilir. [3Blue1Brown]() kanalınınki gibi videolar fayda sağlayacaktır. Bu kanalın videosu aslında büyük ölçüde bir [blog yazısı]()ndan alınmış. Her ikisine de bu yazının kaynaklar bölümünden ulaşabilirsiniz. 
