@@ -5,6 +5,10 @@ thumb: "https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/maste
 categories: Philosophy
 ---
 
+Kendinin efendisi olmayan kişi özgür değildir.
+
+Binlerce yıl önce söylenmiş bu sözlerin doğruluğu belki de sorgulanabilir. Fakat Romalı'lar tarafından esir alındıktan sonra ömrünün büyük bir bölümünü köle olarak geçirdikten sonra özgürlüğüne kavuşan Epiktetos'un kölelik, efendilik ve özgürlük üzerine konuşurken ne söylediğini bildiğini varsaymak yerinde olur diye düşünüyorum.
+
 Stoacılığın kökeni milattan önce 333 ve 262 yılları arasında yaşamış Zeno'ya dayandırılır. Kıbrıs doğumlu Zeno'nun Atina'nın memer sutunlarla kaplı Stoa'sında halka açık ve parasız verdiği derslerin ölümünden sonra da sürecek geniş yankısı bugün hala devam ediyor. Stoa'ya adını veren mekanın günümüze ulaşmış bir örneğine ulaşmaya çalıştığımda karşıma Stoa Of Attados çıktı. Uzunluğu 115 genişliği ise 20 metrelik bu mekanda 134 tane Doric stilde mermer kolon bulunmakta. Doğa ile kontrast oluşturacak şekilde düz sade kurtarılmış bu mekan aslında insanın medeniyetinin refahının düzeninin bir sembolü olarak görmek mümkün. Mermer bir sütun tıpkı ona benzeyen zevke, kedere veya neşeye kayıtsız, duygularını bastıran sert bir ruha sahip olmayı çağrıştırıyor.
 
 Aslında stoacıların doğa ile arası aslında pek de kötü sayılmaz. Stoacılığın bir din olup olmadığı sorusu sıklıkla akla gelse de dünyanın işleyişine yönelik rasyonel argümanlar üretmeye çalışması onu dinlerden ayırır. Stoacılık evrenin ahengi ve nizamına yani Kosmos'a derin saygı barındırır. Fakat bunu bir mitoloji icat etmeden yapar. Stoik metinlerin daha sonraları sıklıkla Hıristiyan adaptasyonları üretilerek dönemin düşünce dünyası içerisine adapte edilmse de Stoa'cılıkta tasvir edilen doğanın kendine has düzeni ve adaleti aslında öteki dünyaya değil bu dünyaya aittir. Stoacılıkta insan doğayı gözlemleyerek ve tanıyarak kendini kendini kosmos'a göre ayarlar.
